@@ -18,7 +18,7 @@ module.exports = {
       },
     ],
   },
-  optmization: {
+  optimization: {
     minimize: true,
   },
   plugins: [
